@@ -1,0 +1,9 @@
+{
+    "cSpell.words": [
+        "repo",
+        "runtimes",
+        "typechecking"
+    ],
+    "typescript.tsdk": "node_modules\\typescript\\lib",
+    "liveServer.settings.port": 5501
+}
